@@ -6,7 +6,7 @@
 #define D_SPEED 2.5		// Drop_Speed Ex: 2.0, 2.5, 3.5, 5.0
 #define D_TIME	100000	// Drop_Time Ex:	300000 ms = 5 min, 600000 ms = 10 min
 #define GREEN	0x00FF00FF
-#define	WHITE   0xFFFFFFFF
+#define	WHITE   0xFFFFFFFF 
 
 //Includes
 #include   <a_samp>
